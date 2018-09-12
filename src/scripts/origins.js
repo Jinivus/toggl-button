@@ -1,4 +1,9 @@
 export default {
+  'notion.so': {
+    url: '*://*.notion.so/*',
+    name: 'Notion by Matt',
+    file: 'notion.js'
+  },
   'agenocrm.com': {
     url: '*://*.agenocrm.com/*',
     name: 'AgenoCRM',
